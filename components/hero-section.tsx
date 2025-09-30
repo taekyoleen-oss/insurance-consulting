@@ -21,15 +21,6 @@ export function HeroSection() {
             보험상품 개발부터 클레임 관리까지, 법률 및 의료 전문가가 제공하는 체계적이고 신뢰할 수 있는 컨설팅 서비스
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 text-base">
-              상담 신청하기
-              <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button size="lg" variant="outline" className="text-base bg-transparent">
-              서비스 자세히 보기
-            </Button>
-          </div>
         </div>
       </div>
 

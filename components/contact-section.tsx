@@ -126,9 +126,6 @@ export function ContactSection() {
                 />
               </div>
 
-              <Button type="submit" size="lg" className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
-                상담 신청하기
-              </Button>
             </form>
           </div>
 
